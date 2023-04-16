@@ -48,3 +48,6 @@ Send `h-enk` a message:
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
 - [Doks Discussions](https://github.com/h-enk/doks/discussions)
+
+# 更新测试
+这一段是测试内容。
