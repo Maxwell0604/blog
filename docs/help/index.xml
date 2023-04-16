@@ -38,7 +38,7 @@ npm run clean </description>
 Footer notice? #Please keep it in place.
 Keyboard shortcuts for search? #focus: Ctrl + / select: ↓ and ↑ open: Enter close: Esc Other documentation? #Netlify Hugo Can I get support? #Create a topic:
 Netlify Community Hugo Forums Doks Discussions Contact the creator? #Send h-enk a message:
-Netlify Community Hugo Forums Doks Discussions </description>
+Netlify Community Hugo Forums Doks Discussions 更新测试 #这一段是测试内容。</description>
     </item>
     
   </channel>
